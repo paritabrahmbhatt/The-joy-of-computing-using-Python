@@ -1,3 +1,4 @@
+## Assignment 1 - Hello World!
 Write a program to accept a name as input and print “Hello <input name> ! Welcome to JOCP” as the output.
 
 Note: input() method is used to accept user input in Python.
